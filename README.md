@@ -40,5 +40,4 @@ You have 4 attempts to guess the selected word
 You have 3 attempts to guess the selected word
 2 > console
 Congratulations!! You won!!!
-   ons!! You won!!!
    
